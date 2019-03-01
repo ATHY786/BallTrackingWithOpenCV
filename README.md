@@ -5,3 +5,6 @@ Actually, we’re going to track a Tennis ball in a video stream, using Python, 
 We’ll also be using imutils to make a few basic tasks (like resizing) much easier.
  
 Use follwing command to run $ python ball_tracking.py --video ball_tracking_example.mp4
+
+
+![ball-tracking-animated-02](https://user-images.githubusercontent.com/39703092/53632725-ade95d80-3c3b-11e9-8302-b920c99dda73.gif)
