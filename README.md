@@ -4,3 +4,4 @@ Step #2: Track the ball as it moves around in the video frames, drawing its prev
 Actually, we’re going to track a Tennis ball in a video stream, using Python, OpenCV color-based threshold.
 We’ll also be using imutils to make a few basic tasks (like resizing) much easier.
  
+Use follwing command to run $ python ball_tracking.py --video ball_tracking_example.mp4
